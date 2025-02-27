@@ -12,6 +12,8 @@
 
 获取地址：https://www.wwwoop.com/home/Index/projectInfo?goodsId=51&typeParam=2
 
+（开发不易，小偿获取，感谢理解~~~）
+
 #### 3、页面样式展示
 ——
 
